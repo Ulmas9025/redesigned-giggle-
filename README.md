@@ -1,2 +1,0 @@
-# redesigned-giggle-
-Hello World
